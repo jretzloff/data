@@ -1,0 +1,56 @@
+{
+    "wh-players":[
+        {
+        "id": 1,
+        "jersey": 27,
+        "position": "F/M",
+        "firstName": "Cyann",
+        "lastName": "Retzloff"
+        }
+    ],
+    "r-players":[
+        {
+            "id": 1,
+            "jersey": 1,
+            "position": "G",
+            "firstName": "Zaddie",
+            "lastName": "Williams"
+          },
+          {
+            "id": 2,
+            "jersey": 9,
+            "position": "D",
+            "firstName": "Abigail",
+            "lastName": "Sensosia"
+          },
+          {
+            "id": 3,
+            "jersey": 77,
+            "position": "D",
+            "firstName": "Isabella",
+            "lastName": "Aldrete"
+          },
+          {
+            "id": 4,
+            "jersey": 27,
+            "position": "F",
+            "firstName": "Cyann",
+            "lastName": "Retzloff"
+          },
+          {
+            "id": 5,
+            "jersey": 16,
+            "position": "F",
+            "firstName": "Guliana",
+            "lastName": "Balistreri-Coleman"
+          },
+          {
+            "id": 6,
+            "jersey": 3,
+            "position": "M",
+            "firstName": "Justine",
+            "lastName": "Bartels"
+          }
+    
+    ]
+}
